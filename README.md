@@ -20,3 +20,9 @@ You only have 4 hours to complete this assignment.
 - Pair Programming with Doug serving as the Driver, and Deanna serving as the Navigator
   - Completed all page builds
   - Completed initial HTML piece, enuring that all elements are represented on the page.
+  
+### August 20, 2020
+
+- Pair Programming with Doug serving as the Driver, and Deanna serving as the Navigator
+  - Completed all page builds
+  - Completed final product
